@@ -15,7 +15,7 @@ A simple console-based implementation of the classic Tic-Tac-Toe game, built wit
 
 2. ### Clone or Download the Project:
 
-    `git clone https://github.com/hazemka/Tic-Tac-Toe`
+    `git clone https://github.com/hazemka/Tic-Tac-Toe.git`
 
     then
 
